@@ -1,0 +1,11 @@
+{
+    "title"    : "Profil",
+    "name"     : "Taci",
+    "point"    : "180 puan",
+    "shipping" : "Nakliye Tutari",
+    "payment"  : "Odeme Ayarlari",
+    "profile"  : "Profil Ayarlari",
+    "exit"     : "Cikis"
+
+
+}

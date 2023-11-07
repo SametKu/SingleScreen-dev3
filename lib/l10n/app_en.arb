@@ -1,0 +1,11 @@
+{
+    "title"    : "Profile",
+    "name"     : "Taci",
+    "point"    : "180 point",
+    "shipping" : "Shipping Amount",
+    "payment"  : "Payment Settings",
+    "profile"  : "Profile Settings",
+    "exit"     : "Log Out"
+
+
+}
